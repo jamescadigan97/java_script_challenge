@@ -10,10 +10,10 @@ Page before the filters are applied
 ![ScreenShot](/Screenshots/blank.png)
 
 Example results for filters settings "1/1/10"
-![ScreenShot](/Screenshots/CSCO.png)
+![ScreenShot](/Screenshots/sample.png)
 
 Example results for filters settings "1/1/10", "ca", and "triangle"
-![ScreenShot](/Screenshots/CSCO.png)
+![ScreenShot](/Screenshots/triangle_ca.png)
 
 Example results for "el_cajon"
 ![ScreenShot](/Screenshots/el_cajon.png)
