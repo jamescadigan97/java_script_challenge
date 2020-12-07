@@ -7,9 +7,13 @@ In this assigment, I used JavaScript to create a chart that filters data. The HT
 ## Screenshots
 
 Page before the filters are applied
+![ScreenShot](/Screenshots/blank.png)
 
 Example results for filters settings "1/1/10"
+![ScreenShot](/Screenshots/CSCO.png)
 
 Example results for filters settings "1/1/10", "ca", and "triangle"
+![ScreenShot](/Screenshots/CSCO.png)
 
 Example results for "el_cajon"
+![ScreenShot](/Screenshots/el_cajon.png)
